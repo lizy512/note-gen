@@ -2,6 +2,7 @@
   "sttModel": "note-gen-free-note-gen-stt",
   "gitlabCustomUrl": "",
   "useImageRepo": false,
+  "autoDataSyncInitialChoice:github": true,
   "primaryModel": "note-gen-chat",
   "inspirationModel": "note-gen-chat",
   "giteaUsername": "",
@@ -255,7 +256,7 @@
     "versionCode": 103,
     "versionName": "1.0.3"
   },
-  "currentPage": "/mobile/setting",
+  "currentPage": "/mobile/chat",
   "giteaCustomSyncRepo": "",
   "noteGenDefaultModelsCache": {
     "content": {
